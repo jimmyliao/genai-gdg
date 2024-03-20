@@ -1,11 +1,16 @@
-# genai-gdg
-GenAI Workshop for GDG Taipei
+# Generative AI Workshops for Google Developer Group
 
-- RAG Practice Example
-  - <a target="_blank" href="https://colab.research.google.com/github/jimmyliao/llm-workshop/blob/main/llamaindex/gemini-lmm.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> - RAG application with MultiModal Model
 
-**Slides:**
+## Introduction for Function Calling with Gemini
+- Date: 2024/03/21
+- Location: Google Developer Group, Taipei (Face-to-Face)
+- Notebook: <a target="_blank" href="https://colab.research.google.com/github/jimmyliao/genai-gdg/blob/gdg-202403/rag-intro/gemini-lmm.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Gamma link (more up-to-dated) - https://gamma.app/public/GeminiWorkshop-RAG-g0zr4kokl6uragh
+- **Slides:** https://docs.google.com/presentation/d/1O4CzfzSwlBPCEITtW8UdE-9cgbZ0pk8V7yxmHRYpadw/edit?usp=sharing
 
-PDF - [GeminiWorkshop-GDG-TPE](https://github.com/jimmyliao/genai-gdg/blob/main/GeminiWorkshop-GDG-TPE.pdf)
+
+## Build Your Own RAG with Gemini Pro (Vision) APIs
+- Date: 2024/01/25
+- Location: Google Developer Group, Taipei (Face-to-Face)
+- Notebook: <a target="_blank" href="https://colab.research.google.com/github/jimmyliao/genai-gdg/blob/gdg-202403/rag-intro/gemini-lmm.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> (fixed link)
+- **Slides:** [Gamma](https://gamma.app/public/GeminiWorkshop-RAG-g0zr4kokl6uragh) (up-to-date) or [PDF](https://github.com/jimmyliao/genai-gdg/blob/main/GeminiWorkshop-GDG-TPE-20240125.pdf)
