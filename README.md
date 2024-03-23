@@ -1,4 +1,4 @@
-# Generative AI Workshops for Google Developer Groups
+# Generative AI Workshops for Google Developer Groups / R-Ladies
 
 ## Function Calling with OpenAI / Gemini / (Claude)
 - Date: 2024/03/25
