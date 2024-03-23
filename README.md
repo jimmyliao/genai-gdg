@@ -6,11 +6,11 @@
 - Slides: **Stay tuned**
 
 
-## Introduction for Function Calling with Gemini
+## Gemini Pro API Fundamental with lab
 - Date: 2024/03/24
 - Location: Google Developer Groups, Kaoshiung (In-Person)
-- Notebook: **Stay tuned**
-- Slides: **Stay tuned**
+- Notebook: Please check in Slides
+- Slides: <a href="https://docs.google.com/presentation/d/1qnNAhYq3gfsWMdwiz8yBrJZQsEH4gS7Ztrl_4ort_W0/edit?usp=sharing" target="_blank">Google Slides</a>
 
 
 ## Introduction for Function Calling with Gemini
