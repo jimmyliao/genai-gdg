@@ -1,4 +1,4 @@
-# Generative AI Workshops for Google Developer Groups / R-Ladies Taipei
+# Generative AI Workshops for Google Developer Groups/R-Ladies Taipei
 
 ## Function Calling with OpenAI / Gemini / (Claude)
 - Event: [Gemini Pro API 的 Function Calling 功能介紹](https://www.accupass.com/event/2402291451562052044672)
