@@ -1,6 +1,6 @@
 # Generative AI Workshops for Google Developer Groups
 
-## Function Calling with OpenAI / Gemini / Claude
+## Function Calling with OpenAI / Gemini / (Claude)
 - Date: 2024/03/25
 - Location: Accupass (online)
 - Slides: **Stay tuned**
