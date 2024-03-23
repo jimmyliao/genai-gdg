@@ -1,14 +1,14 @@
-# Generative AI Workshops for Google Developer Groups / R-Ladies
+# Generative AI Workshops for Google Developer Groups / R-Ladies Taipei
 
 ## Function Calling with OpenAI / Gemini / (Claude)
-- Event: [Gemini Pro API 的 Function Calling 功能介紹](https://www.accupass.com/event/2402291451562052044672)
+- Event: [Gemini Pro API 的 Function Calling 功能介紹](https://www.accupass.com/event/2402291451562052044672), R-Ladies Taipei
 - Date: 2024/03/25
 - Location: Accupass (online)
 - Slides: **Stay tuned**
 
 
 ## Gemini Pro API Fundamental with lab
-- Event: [Build with AI: Gemini Pro API 基礎與應用 - Jimmy Liao](https://gdg.community.dev/events/details/google-gdg-kaohsiung-presents-build-with-ai-kaohsiung-2024-san-yue-shi-zhan/)
+- Event: [Build with AI: Gemini Pro API 基礎與應用 - Jimmy Liao](https://gdg.community.dev/events/details/google-gdg-kaohsiung-presents-build-with-ai-kaohsiung-2024-san-yue-shi-zhan/), Google Developers Group KaoHsiung
 - Date: 2024/03/24
 - Location: Google Developer Groups, Kaoshiung (In-Person)
 - Notebook: Please check in Slides
@@ -17,7 +17,7 @@
 
 ## Introduction for Function Calling with Gemini
 
-- Event: [Build with AI 2024 工作坊 - Introduction to Function Calling with Gemini](https://gdg.community.dev/events/details/google-gdg-taipei-presents-build-with-ai-2024-gong-zuo-fang-introduction-to-function-calling-with-gemini/)
+- Event: [Build with AI 2024 工作坊 - Introduction to Function Calling with Gemini](https://gdg.community.dev/events/details/google-gdg-taipei-presents-build-with-ai-2024-gong-zuo-fang-introduction-to-function-calling-with-gemini/), Google Developers Group Taipei
 - Date: 2024/03/21
 - Location: Google Developer Groups, Taipei (In-Person)
 - Notebook: 
@@ -28,7 +28,7 @@
 
 
 ## Build Your Own RAG with Gemini Pro (Vision) APIs
-- Event: [Build with AI 2024: 用 Gemini Pro (和 Vision) API 與生成推薦來開發你的 GenAI 應用程式](https://gdg.community.dev/events/details/google-gdg-taipei-presents-yong-gemini-pro-he-vision-api-yu-sheng-cheng-tui-jian-lai-kai-fa-ni-de-genai-ying-yong-cheng-shi/)
+- Event: [Build with AI 2024: 用 Gemini Pro (和 Vision) API 與生成推薦來開發你的 GenAI 應用程式](https://gdg.community.dev/events/details/google-gdg-taipei-presents-yong-gemini-pro-he-vision-api-yu-sheng-cheng-tui-jian-lai-kai-fa-ni-de-genai-ying-yong-cheng-shi/), Google Developers Group Taipei
 - Date: 2024/01/25
 - Location: Google Developer Groups, Taipei (In-Person)
 - Notebook: <a target="_blank" href="https://colab.research.google.com/github/jimmyliao/genai-gdg/blob/main/gemini/rag-intro/gemini-lmm.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> (fixed link)
