@@ -5,6 +5,7 @@
 - Date: 2024/03/25
 - Location: R-Ladies Taipei (online)
 - Slides: **Stay tuned**
+- Slides: <a href="https://docs.google.com/presentation/d/1v89ZtYKsWAZhXqmgwkRjpYGA5rghzYUEHr1qKbj45rw/edit?usp=sharing)" target="_blank">Google Slides</a>
 
 
 ## Gemini Pro API Fundamental with lab
