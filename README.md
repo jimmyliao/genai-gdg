@@ -1,25 +1,40 @@
 # Generative AI Workshops
 ## Audience: Google Developer Groups, R-Ladies Taipei, Internal Training
 
-## Build Your Journel Copilot with Gemma / Gemini APIs
+<a href="https://idx.google.com/import?url=https://github.com/jimmyliao/genai-gdg" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.idx.dev/btn/open_dark_32.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.idx.dev/btn/open_light_32.svg">
+    <img height="32" alt="Open in IDX" src="https://cdn.idx.dev/btn/open_purple_32.svg">
+  </picture>
+</a>
+
+
+## Recap Google IO'24 and build RAG with Gemini Pro APIs and Dify
 - Event: 
 - Date: 2024/05/18
 - Location: Google Developer Groups, Taoyuan (In-Person)
 - Slides: **Stay tuned**
 
+## Build Conversation App with Gemini Pro APIs and Dify
+- Event: GDG Taipei pre-GoogleIO party
+- Date: 2024/05/14
+- Location: Google Developer Groups, Taipei (In-Person)
+- Slides: <a href="https://docs.google.com/presentation/d/106uL9Japg0iNnuEhaDItgWWD1amV6R8azxigez35ZBc/edit?usp=sharing" target="_blank">Google Slides</a>
+
 
 ## Build Your Assistant / Copilot with Gemma / Gemini APIs
-- Event: [用 gemini/gemma 與 AutoGen打造個人助理 (Assistant/Multi-Agent)](https://gdg.community.dev/events/details/google-gdg-taoyuan-presents-4yue-fen-gemini-api-ying-yong-cheng-shi-kai-fa-gong-zuo-fang-yong-geminigemma-yu-autogenda-zao-ge-ren-zhu-li-assistantmulti-agent/)
+- Event: [打造個人助理，使用 Gemini/Gemma/AutoGen (Assistant/Copilot)](https://gdg.community.dev/events/details/google-gdg-taoyuan-presents-4yue-fen-gemini-api-ying-yong-cheng-shi-kai-fa-gong-zuo-fang-yong-geminigemma-yu-autogenda-zao-ge-ren-zhu-li-assistantmulti-agent/)
 - Date: 2024/04/13
 - Location: Google Developer Groups, Taoyuan (In-Person)
-- Slides: **Stay tuned**
+- Slides: <a href="https://docs.google.com/presentation/d/10LgPDv58M-JmimjEBcD8osqou41BDSAS_jpxkU7tri4/edit?usp=sharing" target="_blank">Google Slides</a>
 
 
 ## Function Calling with OpenAI / Gemini / (Claude)
 - Event: [Gemini Pro API 的 Function Calling 功能介紹](https://www.accupass.com/event/2402291451562052044672)
 - Date: 2024/03/25
 - Location: R-Ladies Taipei (online)
-- Slides: <a href="https://docs.google.com/presentation/d/1v89ZtYKsWAZhXqmgwkRjpYGA5rghzYUEHr1qKbj45rw/edit?usp=sharing)" target="_blank">Google Slides</a>
+- Slides: <a href="https://docs.google.com/presentation/d/1v89ZtYKsWAZhXqmgwkRjpYGA5rghzYUEHr1qKbj45rw/edit?usp=sharing" target="_blank">Google Slides</a>
 
 
 ## Gemini Pro API Fundamental with lab

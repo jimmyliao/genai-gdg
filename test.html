@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <title>My chat</title>
+  <style>
+    df-messenger {
+      /*
+       * Customize as required. df-messenger will fill the
+       * space that is provided.
+      */
+      position: absolute;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      width: 320px;
+    }
+  </style>
+  <script src="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js"></script>
+</head>
+<body>
+<df-messenger
+    location="us-central1"
+    project-id="gen-lang-client-0232570074"
+    agent-id="7135e163-adab-46c1-8aee-c1e8ee3b964e"
+    language-code="en"
+>
+  <df-messenger-chat
+      chat-title="Jimmy Test Agent"
+  ></df-messenger-chat>
+</df-messenger>
+
+<script>
+  // An example of handling events: Navigate to the first suggested URL.
+  document.addEventListener('df-url-suggested', (event) => {
+    if (Array.isArray(event.detail.suggestedUrls) &&
+      event.detail.suggestedUrls.length) {
+      window.location.href = event.detail.suggestedUrls[0];
+  }
+});
+</script>
+</body>
+</html>
