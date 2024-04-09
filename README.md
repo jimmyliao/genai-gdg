@@ -1,4 +1,19 @@
-# Generative AI Workshops for Google Developer Groups / R-Ladies Taipei
+# Generative AI Workshops
+## Audience: Google Developer Groups, R-Ladies Taipei, Internal Training
+
+## Build Your Journel Copilot with Gemma / Gemini APIs
+- Event: 
+- Date: 2024/05/18
+- Location: Google Developer Groups, Taoyuan (In-Person)
+- Slides: **Stay tuned**
+
+
+## Build Your Assistant / Copilot with Gemma / Gemini APIs
+- Event: [用 gemini/gemma 與 AutoGen打造個人助理 (Assistant/Multi-Agent)](https://gdg.community.dev/events/details/google-gdg-taoyuan-presents-4yue-fen-gemini-api-ying-yong-cheng-shi-kai-fa-gong-zuo-fang-yong-geminigemma-yu-autogenda-zao-ge-ren-zhu-li-assistantmulti-agent/)
+- Date: 2024/04/13
+- Location: Google Developer Groups, Taoyuan (In-Person)
+- Slides: **Stay tuned**
+
 
 ## Function Calling with OpenAI / Gemini / (Claude)
 - Event: [Gemini Pro API 的 Function Calling 功能介紹](https://www.accupass.com/event/2402291451562052044672)
