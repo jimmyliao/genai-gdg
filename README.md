@@ -9,12 +9,39 @@
   </picture>
 </a>
 
+## Google IO Extended Taipei - 探索 Vertex AI Model Evaluation 與應用場景
+- Event: Google IO Extended Taipei
+- Date: 2024/07/31
+- Location: Google Developer Groups, Taipei (In-Person)
+- Slides: **Stay tuned**
 
-## Recap Google IO'24 and build RAG with Gemini Pro APIs and Dify
-- Event: 
-- Date: 2024/05/18
+
+## Google IO Extended Taichung - RAG 與採用Gemma 的進階用法
+- Event: Google IO Extended Taichung
+- Date: 2024/07/27
+- Location: Google Developer Groups, Taichung (In-Person)
+- Slides: **Stay tuned**
+
+
+## Google IO Extended Tainan - 微調 PaliGemma 來強化你的 RAG App
+- Event: Google IO Extended Tainan
+- Date: 2024/07/20
+- Location: Google Developer Groups, Tainan (In-Person)
+- Slides: **Stay tuned**
+
+
+## Google IO Extended Taoyuan - Dev Keynote and AI related recap
+- Event: Google IO Extended Taoyuan
+- Date: 2024/07/13
 - Location: Google Developer Groups, Taoyuan (In-Person)
 - Slides: **Stay tuned**
+
+
+## Recap Google IO'24 and build RAG with Gemini Pro APIs and Dify
+- Event: Build with AI Taoyuan
+- Date: 2024/05/18
+- Location: Google Developer Groups, Taoyuan (In-Person)
+- Slides: <a href="https://docs.google.com/presentation/d/1E5c8Z2kXmbecgSxm7_7nqN3MQ9KCeinXhX3o9AgkP4o/edit?usp=sharing" target="_blank">Google Slides</a>
 
 ## Build Conversation App with Gemini Pro APIs and Dify
 - Event: GDG Taipei pre-GoogleIO party
