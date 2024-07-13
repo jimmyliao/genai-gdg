@@ -34,8 +34,7 @@
 - Event: Google IO Extended Taoyuan
 - Date: 2024/07/13
 - Location: Google Developer Groups, Taoyuan (In-Person)
-- Slides: **Stay tuned**
-
+- Slides: <a href="https://docs.google.com/presentation/d/1iXKFHocJZJsnepYbYKC7BwBcTvI7vbt80g8P9ZbiFU0/edit?usp=sharing" target="_blank">Google Slides</a>
 
 ## Recap Google IO'24 and build RAG with Gemini Pro APIs and Dify
 - Event: Build with AI Taoyuan
