@@ -27,7 +27,7 @@
 - Event: Google IO Extended Tainan
 - Date: 2024/07/20
 - Location: Google Developer Groups, Tainan (In-Person)
-- Slides: **Stay tuned**
+- Slides: <a href="https://docs.google.com/presentation/d/1Kll_XunMNjrOM3TZXytvpNoXxlGXrY7Hb6aZ2O2tnD4/edit?usp=sharing" target="_blank">Google Slides</a>
 
 
 ## Google IO Extended Taoyuan - Dev Keynote and AI related recap
